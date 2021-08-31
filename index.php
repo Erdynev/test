@@ -8,3 +8,5 @@ function doSomething()
 {
     return true;
 }
+
+$a=2;
